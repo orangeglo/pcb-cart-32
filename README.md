@@ -15,7 +15,7 @@ Order as...
 - 2mm PCB (Up to 2.4mm may work as well, untested)
 - ENIG finish
 
-I recommend ordering from [JLC](jlcpcb.com), as they offer the 2mm option for a reasonable price at largish quantities.
+I recommend ordering from [JLC](https://jlcpcb.com), as they offer the 2mm option for a reasonable price at largish quantities.
 
 ## [DOWNLOAD GERBERS](https://github.com/orangeglo/pcb-cart-32/releases/latest)
 
