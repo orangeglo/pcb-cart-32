@@ -12,7 +12,7 @@ Two parts...
 - 0603 0.1uF ceramic cap
 
 Order as...
-- 2mm PCB (Up to 2.4mm may work as well, untested)
+- 2mm PCB (Up to 2.4mm works, though 2.4mm is a tight fit)
 - ENIG finish
 
 I recommend ordering from [JLC](https://jlcpcb.com), as they offer the 2mm option for a reasonable price at largish quantities.
